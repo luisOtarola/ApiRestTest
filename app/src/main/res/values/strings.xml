@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApiRestTest</string>
+    <string name="api_instruction">Push the button Get Info</string>
+    <string name="api_error">There is a problem with the resource</string>
+</resources>
